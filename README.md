@@ -15,13 +15,13 @@ I love to program. I have always wanted to work with computers ever since I was 
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,express)](https://skillicons.dev)
                     
 
 ### Socials
                   
 <div id="badges">
   <a href="https://www.linkedin.com/in/tristan-pagden-51ba75286/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
+    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
   </a>
 </div>
