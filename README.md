@@ -9,7 +9,7 @@ I love to program. I have always wanted to work with computers ever since I was 
 *   🌍  I'm based in UK
 *   🖥️  See my portfolio at [My Portfolio](http://tristanpagden.vercel.app)
 *   ✉️  You can contact me at [tristanpagden@gmail.com](mailto:tristanpagden@gmail.com)
-*   🚀  I'm currently working on [My Upwork](http://www.upwork.com/freelancers/~0167c5c371fcfc7a1d)
+*   💻  Want to hire me? [My Upwork](http://www.upwork.com/freelancers/~0167c5c371fcfc7a1d)
 *   🤝  I'm open to collaborating on Projects
 
 
