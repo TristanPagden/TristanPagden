@@ -12,7 +12,9 @@ I love to program. I have always wanted to work with computers ever since I was 
 *   🚀  I'm currently working on [My Upwork](http://www.upwork.com/freelancers/~0167c5c371fcfc7a1d)
 *   🤝  I'm open to collaborating on Projects
 
+
 ### Skills 
+
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
 </p>
