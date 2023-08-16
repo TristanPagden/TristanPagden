@@ -12,12 +12,12 @@ I love to program. I have always wanted to work with computers ever since I was 
 *   💻  Want to hire me? [My Upwork](http://www.upwork.com/freelancers/~0167c5c371fcfc7a1d)### Skills 
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
-                    </p>
+</p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://www.linkedin.com/in/tristan-pagden-51ba75286/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
