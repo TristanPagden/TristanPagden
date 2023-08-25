@@ -15,5 +15,5 @@ I love to program. I have always wanted to work with computers ever since I was 
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,tailwind,nextjs,express,mongodb,py,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,tailwind,nextjs,express,mongodb,mysql,py,pytorch,tensorflow)](https://skillicons.dev)
                     
