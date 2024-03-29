@@ -8,7 +8,8 @@ I love to program. I have always wanted to work with computers ever since I was 
 
 *   🌍  I'm based in UK
 *   🖥️  See my portfolio at [My Portfolio](http://tristanpagden.vercel.app)
-*   ✉️  You can contact me at [tristanpagden@gmail.com](mailto:tristanpagden@gmail.com)
+*   ✉️  You can contact me at [tutoringbytristan@gmail.com](mailto:tutoringbytristan@gmail.com)
+*   📚 Want tutoring? [Tutoring](http://tristanpagden.vercel.app/tutoring)
 *   🤝  I'm open to collaborating on Projects
 
 
