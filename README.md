@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack web development | Machine learning | Tutoring
 ---------------------------------------
 
-I love to program. I have always wanted to work with computers ever since I was young and now I have made that dream a reality. I am a self-taught programmer and have always loved my work. I love designing websites and sharing my creations with the world. I also love Artificial intelligence and the cutting edge technology it can provide. Overall, I am an enthusiastic programmer who loves their work and can provide many helpful skills to my clients.
+I am a self taught programmer with skills in many areas of programming, with over 6 years of experience. I am a skilled and versatile full stack web developer and have worked on numerous web development projects. I am highly experience in artificial intelligence and machine learning particularly in python, but also other languages. I am available to hire for any project within my skillset. I also offer tutoring for many areas of programming along with maths and the sciences. Along with teaching indepth subject knowledge I will also teach you how to effectively study, learn and motivate yourself using scientifically based methods.
 
 *   🌍  I'm based in UK
 *   🖥️  See my portfolio at [My Portfolio](http://tristanpagden.vercel.app)
