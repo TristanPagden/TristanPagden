@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tristan Pagden
 ======================================================================================================================================
 
-Full stack Web developer | AI developer
+Full stack web development | Machine learning | Tutoring
 ---------------------------------------
 
 I love to program. I have always wanted to work with computers ever since I was young and now I have made that dream a reality. I am a self-taught programmer and have always loved my work. I love designing websites and sharing my creations with the world. I also love Artificial intelligence and the cutting edge technology it can provide. Overall, I am an enthusiastic programmer who loves their work and can provide many helpful skills to my clients.
